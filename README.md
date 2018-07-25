@@ -4,7 +4,7 @@ Open Source Intelligence gathering program designed to search for keywords acros
 ## It does what?
 OSINT Keyword Alert System script to help me keep track of things out in the interwebs
 
-### For Open-Source Intellegence Gathering###
+### For Open-Source Intellegence Gathering ###
 
 * Finds emails, credit cards, SSN or SIN, Passport numbers, anything!
 * Optionally Sends email if new instance of a keyword has been discovered
