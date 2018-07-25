@@ -1,5 +1,5 @@
 # osint-kas
-Open Source Intelligence gathering program designed to search for keywords across a self-hosted privacy-respecting meta-search engine.
+Open Source Intelligence gathering program with keyword alert system designed to search for keywords across a self-hosted privacy-respecting meta-search engine.
 Inspired by http://www.automatingosint.com/blog/2017/04/building-a-keyword-monitoring-pipeline-with-python-pastebin-and-searx/
 
 ## It does what?
