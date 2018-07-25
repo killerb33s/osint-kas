@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Shorthand command for running searx via docker: docker run -p8888:8888 wonderfall/searx
+#Shorthand command for running searx via docker: docker run -p8888:8888 <instancename>/searx
 import os, requests, smtplib, time, argparse, logging
 import getpass as pw
 import httplib as http_client
