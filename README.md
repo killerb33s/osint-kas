@@ -11,3 +11,14 @@ OSINT Keyword Alert System script to help me keep track of things out in the int
 * Optionally Sends email if new instance of a keyword has been discovered
 * Uses Python and Searx because its OPEN SOURCE DUH
 * Version 2.0
+
+## Requirements
+
+* Searx
+* Python 2
+* Some Modules (located in requirements.txt)
+
+## Installation
+
+* `pip install -r requirements.txt`
+* Follow this guide to setup searx: https://github.com/asciimoo/searx/wiki/Installation
