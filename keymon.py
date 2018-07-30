@@ -46,7 +46,7 @@ def createDir(name):
     cwd = os.getcwd()
     directory = cwd + "/%s" % (name)
     if not os.path.exists(directory):
-        os.makedirs(directory,0644)
+        os.makedirs(directory,0755)
         print "[*] Directory For %s Not Found" % (name)
         print "[!] Directory For %s Created..." % (name)
     else:
